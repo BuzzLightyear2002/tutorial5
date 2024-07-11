@@ -1,0 +1,5 @@
+services:
+  backend:
+    image: buzzlightyear19722/a1_container2_csci_5409
+    ports:
+      - "3000:3000"
